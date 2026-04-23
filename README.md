@@ -23,3 +23,11 @@ My instructor has been added as a collaborator so they can review my work direct
 
 ## Notes
 I will update this repository throughout the course as I complete new assignments and refine my work. This will eventually become part of my larger CS portfolio.
+
+# Module Eight Reflection
+
+Working through the projects in this course helped me get a much better understanding of what it takes to build software that is both functional and reliable. The biggest thing I took away is how important testing is at every step. Writing unit tests forced me to think about edge cases, invalid inputs, and how my code behaves when something unexpected happens. By validating inputs, keeping methods focused, and using tests to confirm behavior, I can make sure my code is secure and does what it’s supposed to do.
+
+Interpreting user needs was another major part of the work. I learned to break requirements down into smaller, testable pieces so I could focus on what the user needs the program to do. Instead of guessing, I relied on the requirements to guide the logic, the structure of the classes, and the test cases. This helped me stay aligned with the intended functionality and avoid adding things that weren’t necessary.
+
+When it comes to designing software, I’ve found that planning ahead makes everything easier. Thinking through the structure, keeping things modular, and separating responsibilities helped me write cleaner code and made testing a lot simpler. Designing with testing in mind also pushed me to write methods that were predictable and easier to validate. Overall, these projects helped me build a more disciplined approach to writing software that’s maintainable, testable, and aligned with real requirements.
